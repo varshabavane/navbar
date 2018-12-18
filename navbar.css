@@ -1,0 +1,13 @@
+.navbar{
+    margin-bottom: 0;
+    background-color: #f4511e;
+    /* z-index:9999; */
+    border:0;
+    font-size:12px !important;
+    line-height: 1.4px !important;
+    letter-spacing:3px;
+    border-radius: 0;
+}
+.navbar li a,.navbar .navbar-brand{
+    
+}
